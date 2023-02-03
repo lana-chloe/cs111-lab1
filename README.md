@@ -30,6 +30,7 @@ Your output should be the same as if you were to use | between each program in y
 ## Cleaning up
 
 Run the following command in the terminal:
+
     make clean
 
 This cleans up all the binary files existing in the current directory of pipe.c and you can now build pipe again.
